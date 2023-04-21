@@ -1,19 +1,19 @@
-# Proof of Experience Protocol
+# Proof of Beer
 
 ⚠️ This project is currently under active development. Things might break. Feel free to check the open issues & create new ones.
 
-Proof of Experience Protocol (POEP) is a public good, created to reward connections between Brands and Community Members.
+Proof of Beer (POB) is a public good, created to reward connections between Brands and Community Members.
 
-A Brand, in the POEP context, can be from a single person, to a community/DAO, to a company or country.
+A Brand, in the POB context, can be from a single person, to a community/DAO, to a company or country.
 
 Community Members are all of us, users, who interact with the Brands with aligned values.
 
 - **Create and deploy custom Product NFT and Memory NFT Smart Contracts**.
-- **Configure custom Unlocking Mechanism for your Memory NFTs**
+- **Configure custom Unlocking Mechanism for your Beer NFTs**
 - **Create drops and collaborations with and for your Community Members**
 - **Track merit and involvement of Community Mmbers within the community**
 
-POEP was designed to enhance these connections and reward Community Members with provable, on-chain memories derived from specific actions within the community.
+POB was designed to enhance these connections and reward Community Members with provable, on-chain memories derived from specific actions within the community.
 
 This project was created using [Scaffold-Eth 2](https://github.com/scaffold-eth/se-2) as a starter template.
 
